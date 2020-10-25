@@ -1,6 +1,6 @@
 ## 工程总览 ##
-- 使用了**面向服务的架构**（Service-Oriented Architecture， SOA）
-<br>[](https://img-blog.csdn.net/20180423164420102)
+- 使用了**面向服务的架构**（Service-Oriented Architecture， SOA）<br>
+![](https://img-blog.csdn.net/20180423164420102)
 
 ### 数据库 ###
 - mysql作为关系型数据库，提供了数据的持久化。
