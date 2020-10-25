@@ -7,6 +7,7 @@
     <groupId>com.taotao</groupId>
     <artifactId>taotao-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <relativePath>../taotao-parent/pom.xml</relativePath>
   </parent>
   <artifactId>taotao-search</artifactId>
   <packaging>war</packaging>
