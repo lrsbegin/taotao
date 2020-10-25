@@ -1,5 +1,5 @@
 ## 工程总览 ##
-- 使用了**面向服务的架构**（Service-Oriented Architecture， SOA）<br>
+- 使用了**面向服务的架构**（Service-Oriented Architecture， SOA）<br/>
 ![架构.png](https://i.loli.net/2020/10/25/eckaEfZg63FpCXo.png)
 
 ### 数据库 ###
