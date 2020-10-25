@@ -6,10 +6,9 @@
     <groupId>com.taotao</groupId>
     <artifactId>taotao-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <relativePath>../taotao-parent/pom.xml</relativePath>
   </parent>
-  <groupId>com.taotao</groupId>
   <artifactId>taotao-manager</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <!-- 依赖管理 -->
@@ -25,7 +24,6 @@
     <module>taotao-manager-mapper</module>
     <module>taotao-manager-service</module>
     <module>taotao-manager-web</module>
-    <module>taotao-pojo</module>
   </modules>
   <build>
     <plugins>
