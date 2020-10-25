@@ -1,17 +1,9 @@
-技术选型
-Spring、SpringMVC、Mybatis
-JSP、JSTL、jQuery、jQuery plugin、EasyUI、KindEditor（富文本编辑器）、CSS+DIV
-Redis（缓存服务器）
-Solr（搜索）
-httpclient（调用系统服务）
-Mysql
-Nginx（web服务器）
-工程总览
+架构总结
 使用了面向服务的架构（Service-Oriented Architecture， SOA）
 
 数据库
-mysql作为关系型数据库，提供数据的持久化。
-redis作为内存数据库，提供高性能的缓存。
+mysql作为关系型数据库，提供了数据的持久化。
+redis作为内存数据库，提供高性能的缓存服务。
 服务层
 taotao-rest提供商品信息，内容服务。
 taotao-sso提供单点登录服务。
