@@ -1,3 +1,12 @@
+## 技术选型 ##
+- Spring、SpringMVC、Mybatis
+- JSP、JSTL、jQuery、jQuery plugin、EasyUI、KindEditor（富文本编辑器）、CSS+DIV
+- Redis（缓存服务器）
+- Solr（搜索）
+- httpclient（调用系统服务）
+- Mysql
+- Nginx（web服务器）
+    
 ## 工程总览 ##
 - 使用了**面向服务的架构**（Service-Oriented Architecture， SOA）<br/>
 ![架构.png](https://i.loli.net/2020/10/25/eckaEfZg63FpCXo.png)
